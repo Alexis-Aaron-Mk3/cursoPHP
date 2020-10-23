@@ -1,0 +1,15 @@
+body {
+    background-image: url('../img/Fondo.png');
+}
+
+.panel-default {
+    background-color: #0394fc;
+}
+
+.navbar-brand:link, .navbar-brand:visited, .nav-link {
+    color: #0394fc !important;
+}
+
+.navbar-brand:hover, .navbar-brand:active, .nav-link:hover {
+    color: yellow !important; 
+}
